@@ -1,4 +1,4 @@
-# Road Traffic Accident Analysis Using Machine Learning and Neural Networks
+# Road Traffic Accident Analysis Using Machine Learning and Artificial Neural Networks
 
 ## Overview
 
